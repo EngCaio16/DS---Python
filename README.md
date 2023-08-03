@@ -7,7 +7,8 @@ In this notebook, we have a training from Escola DNC - Data Science Expert Cours
 3. Crisp DM cycle
 4. Data Visualization - seaborn, plotly and matplotlib
 5. Join different databases
-
+6. Basic statistics
+7. Machine learning - sklearn and linear regression
 And a lot of more features and skills were trained. 
 
 Thank you for your visit. That's my first python portifolio, I hope you enjoy it!
