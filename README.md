@@ -11,4 +11,4 @@ In this notebook, we have a training from Escola DNC - Data Science Expert Cours
 7. Machine learning - sklearn and linear regression
 And a lot of more features and skills were trained. 
 
-Thank you for your visit. That's my first python portifolio, I hope you enjoy it!
+Thank you for your visit. That's my first python portfolio, I hope you enjoy it!
